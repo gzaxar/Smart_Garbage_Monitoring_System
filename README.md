@@ -1,1 +1,1 @@
-# Smart_Garbage_Monotoring_System
+# Smart_Garbage_Monitoring_System
