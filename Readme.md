@@ -26,7 +26,7 @@
 Αυτή η διαδικασία θα υποδείξει όλους τους κάδους που απαιτούν προσοχή, οδηγώντας τον χρήστη να ακολουθήσει την πιο αποτελεσματική διαδρομή.
 
 ![./images/1.png]
-![Γέμισμα κάδων]([https://github.com/gzaxar/Smart_Garbage_Monitoring_System/blob/images/image1.png?raw=true)
+![Γέμισμα κάδων]([https://github.com/gzaxar/Smart_Garbage_Monitoring_System/blob/main/images/image1.png?raw=true)
 
 ![./images/2.png]
 
