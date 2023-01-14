@@ -25,9 +25,9 @@
 
 Αυτή η διαδικασία θα υποδείξει όλους τους κάδους που απαιτούν προσοχή, οδηγώντας τον χρήστη να ακολουθήσει την πιο αποτελεσματική διαδρομή.
 
-![https://github.com/gzaxar/Smart_Garbage_Monitoring_System/images/1.png](media/5df8de5fb287f4b7b0e21cbc7aeb7b1b.png)
+![https://github.com/gzaxar/Smart_Garbage_Monitoring_System/blob/main/1.png](media/5df8de5fb287f4b7b0e21cbc7aeb7b1b.png)
 
-![https://github.com/gzaxar/Smart_Garbage_Monitoring_System/images/2.png](media/11f9785aaa0cdc42fcf44202d8972e6f.png)
+![https://github.com/gzaxar/Smart_Garbage_Monitoring_System/blob/main/2.png](media/11f9785aaa0cdc42fcf44202d8972e6f.png)
 
 Σε κάθε κάδο υπάρχει ένας αισθητήρας Ultrasonic Distance Sensor, ο οποίος βλέπει γεμάτος είναι ο κάδος. Ανάλογα με το πόσο γεμάτος είναι (%) ο μικροελεγκτής Arduino στέλνει αντίστοιχο μήνυμα μέσω Wi-Fi στην εφαρμογή.
 
