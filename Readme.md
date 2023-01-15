@@ -39,7 +39,7 @@
 |  **ΕΊΔΟΣ**                    | **ΠΟΣΟΤΗΤΑ**|
 |-------------------------------|-------------| 
 | Arduino UNO R3 SMD            |     5       |
-| Seed Studio Base Shield V2    |     5       |
+| Base Shield V2                |     5       |
 | Ultrasonic Distance Sensor    |     5       |
 | Arduino MKR1000               |     5       |
 | 9V Battery Clip (With On/Off) |     5       |
