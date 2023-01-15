@@ -37,12 +37,12 @@
 
 **ΥΛΙΚΑ**
 
-|  **ΕΊΔΟΣ**                    | **ΤΙΜΗ**    | **ΠΟΣΟΤΗΤΑ** |
-|-------------------------------|-------------|--------------|
-| Arduino UNO R3 SMD            | 23, 99 Ευρώ | 5            |
-| Seed Studio Base Shield V2    | 13,85 Ευρώ  | 5            |
-| Ultrasonic Distance Sensor    | 2,49 Ευρώ   | 5            |
-| Arduino MKR1000               | 41,90 Ευρώ  | 5            |
-| 9V Battery Clip (With On/Off) | 2,99 Ευρώ   | 5            |
-| Jumper Wires 40pcs            | 3,50 Ευρώ   | 5            |
-| Slide Switch (X2)             | 0,20 Ευρώ   | 5            |
+|  **ΕΊΔΟΣ**                    | **ΠΟΣΟΤΗΤΑ**|
+|-------------------------------|-------------| 
+| Arduino UNO R3 SMD            |     5       |
+| Seed Studio Base Shield V2    |     5       |
+| Ultrasonic Distance Sensor    |     5       |
+| Arduino MKR1000               |     5       |
+| 9V Battery Clip (With On/Off) |     5       |
+| Jumper Wires 40pcs            |     5       |
+| Slide Switch (X2)             |     5       |
