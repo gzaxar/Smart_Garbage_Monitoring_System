@@ -19,7 +19,7 @@ href="Arduino_smart_garbadge_monitoring_system_2023_Readme1.files/filelist.xml">
 <link rel=Edit-Time-Data
 href="Arduino_smart_garbadge_monitoring_system_2023_Readme1.files/editdata.mso">
 <!--[if !mso]>
-<![endif]--><!--[if gte mso 9]><xml>
+ <![endif]--><!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>PC19</o:Author>
   <o:LastAuthor>Γεώργιος Ζαχαριάδης</o:LastAuthor>
@@ -1660,7 +1660,7 @@ ul
 	{mso-style-name:"Κανονικός πίνακας";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
+	mso-style-noshow:yes;Per
 	mso-style-priority:99;
 	mso-style-parent:"";
 	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
@@ -1715,12 +1715,9 @@ table.MsoTableGrid
 
 <div class=WordSection1>
 
-<p class=MsoTitle align=center style='text-align:center'><span lang=EN-US
-style='font-size:25.0pt;font-family:"Comic Sans MS";mso-ansi-language:EN-US;
-mso-fareast-language:EL'>Smart garbage monitoring system<o:p></o:p></span></p>
+ 
 
-<w:Sdt SdtDocPart="t" DocPartType="Table of Contents" DocPartUnique="t"
- ID="1902634015">
+ 
  <p class=MsoTocHeading>Περιεχόμενα<span style='font-size:11.0pt;line-height:
  107%;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-font-family:SimSun;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
@@ -2085,7 +2082,7 @@ yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
  <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype><v:shape id="Εικόνα_x0020_1" o:spid="_x0000_i1026" type="#_x0000_t75"
  style='width:445.8pt;height:188.4pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Arduino_smart_garbadge_monitoring_system_2023_Readme1.files/image001.png"
+ <v:imagedata src="images/1.png"
   o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=594 height=251
 src="Arduino_smart_garbadge_monitoring_system_2023_Readme1.files/image002.png"
