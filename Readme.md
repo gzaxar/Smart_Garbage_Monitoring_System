@@ -2085,7 +2085,7 @@ yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
  <v:imagedata src="images/1.png"
   o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=594 height=251
-src="Arduino_smart_garbadge_monitoring_system_2023_Readme1.files/image002.png"
+src="images/1.png"
 v:shapes="Εικόνα_x0020_1"><![endif]></span><span lang=EN-US style='font-family:
 "Comic Sans MS";mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
