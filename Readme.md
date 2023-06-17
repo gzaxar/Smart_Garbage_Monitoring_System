@@ -9,7 +9,7 @@
 
 <div class=WordSection1>
 
-<p class=MsoTocHeading>Περιεχόμενα</p>
+<p class=MsoTocHeading>Περιεχόμενα</p>ng
 
 <p class=MsoToc1><span class=MsoHyperlink><a href="#_Toc137899619">Εισαγωγή</a></span></p>
 
@@ -229,7 +229,7 @@ style='font-family:"Comic Sans MS"'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='text-align:center'><span
 style='position:absolute;z-index:251660288;left:0px;margin-left:471px;
 margin-top:638px;width:136px;height:264px'><img width=109 height=211
-src="images/image2.png"></span><span
+src="images/2.png"></span><span
 style='position:absolute;z-index:251659264;left:0px;margin-left:565px;
 margin-top:664px;width:44px;height:216px'><img width=35 height=173
 src="Arduino_smart_garbadge_monitoring_system_2023_Readme%20-%20Αντιγραφή.files/image003.png"></span><span
