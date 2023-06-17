@@ -2100,7 +2100,7 @@ yes'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_2" o:spid="_x0000_i1025"
  <v:imagedata src="Arduino_smart_garbadge_monitoring_system_2023_Readme1.files/image003.png"
   o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=631 height=239
-src="Arduino_smart_garbadge_monitoring_system_2023_Readme1.files/image004.jpg"
+src="images/2-a.png"
 v:shapes="Εικόνα_x0020_2"><![endif]></span><span style='font-family:"Comic Sans MS"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-right:11.3pt;text-align:justify;text-justify:
