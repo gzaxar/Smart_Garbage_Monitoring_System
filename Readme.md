@@ -221,7 +221,7 @@ style='font-family:"Comic Sans MS"'> </span></p>
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-family:"Comic Sans MS"'><img border=0 width=594 height=251
 id="Εικόνα 1"
-src="Arduino_smart_garbadge_monitoring_system_2023_Readme%20-%20Αντιγραφή.files/image001.png"></span></p>
+src="images/1.png"></span></p>
 
 <p class=MsoNormal align=right style='text-align:right'><span lang=EN-US
 style='font-family:"Comic Sans MS"'>&nbsp;</span></p>
